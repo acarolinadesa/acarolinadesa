@@ -1,7 +1,8 @@
 ### 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/44841405/124401627-c2086280-dd00-11eb-962e-3a4cdf5118e6.gif" alt="pixelme" width="200"/>
+<img src="https://user-images.githubusercontent.com/44841405/125171702-ded2e900-e18b-11eb-90c2-3ff646a3390e.gif" alt="pixelme" width="300"/>
 </p>
+
 
 <!--
 **acarolren/acarolren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
